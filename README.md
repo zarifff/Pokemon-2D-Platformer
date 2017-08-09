@@ -1,5 +1,5 @@
 # Pokemon-2D-Platformer
-Project for CSE 215 - Java OOP. Making a 2D Platformer from skeleton code using Slick2D
+Project for CSE 215 - Java OOP. Making a 2D Platformer using Slick2D and tutorials
 
 This was intended to be a project for a CSE OOP class. The game was inspired from some online tutorials
 using the Slick2D library.
