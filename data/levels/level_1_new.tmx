@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="60" tilewidth="32" tileheight="32" nextobjectid="1">
+ <properties>
+  <property name="background" value="night_background.png"/>
+ </properties>
+ <tileset firstgid="1" name="modern_tileset_padding" tilewidth="32" tileheight="32" spacing="2" margin="1" tilecount="14" columns="14">
+  <image source="../img/tilesets/modern_tileset_padding.png" width="476" height="34"/>
+  <tile id="0">
+   <properties>
+    <property name="tileType" value="air"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="CollisionLayer" width="200" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3dXW+CMACGUZxu3u3//9zNZCbG8SpfpQXOxYmLCYpmDy0V42fXdZ9AUSfYEX1Apg/I9AGZ/23W8vXmtkX6oKRrA/swhz5oxfnXxwCXFfdJH6yh5TnUK/pgTVvr5Eh9fP/Z6uPvyfXpdoo0H1tyPx/7KPUcjHe01uZ0UvIzhlKPe2/78uY+eDSlk5p9jB1L1hh7+sbVlpsb8p4Ys/8b2krNPp7nXe+M2b8W21vKeeR7eITzvzletVK7j1LXmJRq73F8WXtcOc/cvuVxsBXPrey5j71c3zW3C6a5taKPdvso1YVxZDh9tNeH8aK++zxLH/X6qHkuc6r0nC3rO0/Xx/zXPmbta0vrZEfwbp1XH/Nf+23bEmvUa5k6jmx1DX3M54T6qDe/alHfNQl9879zN+64cD821JrTTb3GZK99wBLfn6rZB8c1Za71uM11wN9LmHIMd9xnrrFzs1rnbvqATB9Qjz4g0wdk+oBMH5DpAzJ9QKYPyPQBmT4g0wdk+oBMH5DpAzJ9QKYPyPQBmT4g0wdk+oBMH5DpAzJ9QKYPyPQBmT4g0wdk+oBMH5DpAzJ9QKYPyNb6fRHYqh+Lbj+ogLsAAA==
+  </data>
+ </layer>
+</map>
